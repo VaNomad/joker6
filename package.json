@@ -21,5 +21,8 @@
     "url": "https://github.com/VaNomad/joker6/issues"
   },
   "homepage": "https://github.com/VaNomad/joker6#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }

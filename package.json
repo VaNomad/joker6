@@ -23,9 +23,6 @@
   },
   "homepage": "https://github.com/VaNomad/joker6#readme",
   "type": "module",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  },
   "devDependencies": {
     "prettier": "^2.8.3"
   }
